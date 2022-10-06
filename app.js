@@ -50,7 +50,7 @@ var quiz = {
     },
     {
     "id": 4,
-    "question": "Used of white spaces is important when designing.",
+    "question": "know your skills is the key point of Unique selling point?",
     "options": [
     {
     "a": "True",
@@ -63,61 +63,61 @@ var quiz = {
     },
     {
     "id": 5,
-    "question": "Adobe Photoshop is :",
+    "question": "A logo is ___________ of the Brand",
     "options": [
     {
-    "a": "Vector software",
-    "b": "Banner design software",
-    "c": "Raster software",
-    "d": "Business card design software",
+    "a": "Need",
+    "b": "backbone",
+    "c": "structure",
+    "d": "identity",
     }
     ],
-    "answer": "Raster software",
+    "answer": "identity",
     "score": 0,
     "status": ""
     },
     {
     "id": 6,
-    "question": "6.	What is the shortcut key for on / off layer plate?",
+    "question": "A customer desire is ______________.",
     "options": [
     {
-    "a": "F8",
-    "b": "F3",
-    "c": "F7",
-    "d": "F9"
+    "a": "That's necessary of the product",
+    "b": "Related to the product",
+    "c": "What he wish to be in product but not necessary",
+    "d": "Both A & B"
     }
     ],
-    "answer": "F7",
+    "answer": "Both A & B",
     "score": 0,
     "status": ""
     },
     {
     "id": 7,
-    "question": "9.	What is the default file type in photoshop?",
+    "question": "Choose incorrect option, Guidlines are necessary because______________",
     "options": [
     {
-    "a": "JPG",
-    "b": "PNG",
-    "c": "PSD",
-    "d": "JPEG"
+    "a": "It is an easy guide to refer to when handing over the project",
+    "b": "When something awful happens, you can reffer them to the guidlines",
+    "c": "Contains documentation of product in a business",
+    "d": "Helps to make the design more solid"
     }
     ],
-    "answer": "PSD",
+    "answer": "When something awful happens, you can reffer them to the guidlines",
     "score": 0,
     "status": ""
     },
     {
     "id": 8,
-    "question": "10.	What is the full form of RGB?",
+    "question": "Choose incorrect option, A design layout should",
     "options": [
     {
-    "a": "Red, Green, Brown",
-    "b": "Red, Gray, Black",
-    "c": "Red, Green, Blue",
-    "d": " Red, Gray, Blue"
+    "a": "Properly printed",
+    "b": "Represent USP",
+    "c": "Meet customer needs",
+    "d": " Balance"
     }
     ],
-    "answer": "if (i == 5)",
+    "answer": "Properly printed",
     "score": 0,
     "status": ""
     },
