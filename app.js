@@ -123,88 +123,85 @@ var quiz = {
     },
     {
     "id": 9,
-    "question": "Which of the following is a disadvantage of using JavaScript?",
+    "question": "Choose incorrect option, Adobe photoshop & Corel draw are use for same purpose working.",
     "options": [
     {
-    "a": "Client-side JavaScript does not allow the reading or writing of files.",
-    "b": "JavaScript can not be used for Networking applications because there is no such support available.",
-    "c": "JavaScript doesn't have any multithreading or multiprocess capabilities.",
-    "d": "All of the above."
+    "a": "True",
+    "b": "False"
     }
     ],
-    "answer": "All of the above.",
+    "answer": "False",
     "score": 0,
     "status": ""
     },
     {
     "id": 10,
-    "question": "How to write an IF statement for executing some code if &quot;i&quot; is NOT equal to 5?",
+    "question": "How many bars we can see in the Corel draw Interface at the start?",
     "options": [
     {
-    "a": "if (i <> 5)",
-    "b": "if i <> 5",
-    "c": "if (i != 5)",
-    "d": "if i =! 5 then",
+    "a": "5",
+    "b": "2",
+    "c": "4",
+    "d": "6",
     }
     ],
-    "answer": "if (i != 5)",
+    "answer": "5",
     "score": 0,
     "status": ""
     },
     {
     "id": 11,
-    "question": "How does a WHILE loop start?",
+    "question": "Corel Draw is a Raster base software and works on pixels.",
     "options": [
     {
-    "a": "while i = 1 to 10",
-    "b": "while (i &lt;= 10; i++)",
-    "c": "while (i &lt;= 10)"
+    "a": "True",
+    "b": "False"
     }
     ],
-    "answer": "while (i &lt;= 10)",
+    "answer": "False",
     "score": 0,
     "status": ""
     },
     {
     "id": 12,
-    "question": "How does a FOR loop start?",
+    "question": "Branding Guidlines means",
     "options": [
     {
-    "a": "for (i = 0; i &lt;= 5)",
-    "b": "for (i = 0; i &lt;= 5; i++)",
-    "c": "for i = 1 to 5",
-    "d": "for (i &lt;= 5; i++)"
+    "a": "client name, age, education",
+    "b": "size, color, theme",
+    "c": "unique idea",
+    "d": "Focus on USPs"
     }
     ],
-    "answer": "for (i = 0; i &lt;= 5; i++)",
+    "answer": "size, color, theme",
     "score": 0,
     "status": ""
     },
     {
     "id": 13,
-    "question": "How can you add a comment in a JavaScript?",
+    "question": "How to Create Target Personas with The Right Demographics",
     "options": [
     {
-    "a": "//This is a comment",
-    "b": "&sbquo;This is a comment",
-    "c": "&lt;!--This is a comment--&gt;"
+    "a": "height, fair complexion, long hair",
+    "b": "age, gender, location",
+    "c": "identify by car or bike"
     }
     ],
-    "answer": "//This is a comment",
+    "answer": "age, gender, location",
     "score": 0,
     "status": ""
     },
     {
     "id": 14,
-    "question": "How to insert a comment that has more than one line?",
+    "question": "Why Unique selling point is important?",
     "options": [
     {
-    "a": "/*This comment has more than one line*/",
-    "b": "//This comment has more than one line//",
-    "c": "&lt;!--This comment has more than one line--&gt;"
+    "a": "customer need",
+    "b": "strategy for attracting new customers",
+    "c": "market need "
     }
     ],
-    "answer": "/*This comment has more than one line*/",
+    "answer": "strategy for attracting new customers",
     "score": 0,
     "status": ""
     },
