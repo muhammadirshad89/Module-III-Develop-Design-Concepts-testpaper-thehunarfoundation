@@ -207,157 +207,91 @@ var quiz = {
     },
     {
     "id": 15,
-    "question": "What is the correct way to write a JavaScript array?",
+    "question": "Corel Draw is a :",
     "options": [
     {
-    "a": "var colors = (1:&quot;red&quot;, 2:&quot;green&quot;, 3:&quot;blue&quot;)",
-    "b": "var colors = [&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;]",
-    "c": "var colors = 1 = (&quot;red&quot;), 2 = (&quot;green&quot;), 3 = (&quot;blue&quot;)",
-    "d": "var colors = &quot;red&quot;, &quot;green&quot;, &quot;blue&quot;"
+    "a": "Raster Software",
+    "b": "Tracing Software",
+    "c": "Bitmap Software",
+    "d": "Vector Software"
     }
     ],
-    "answer": "var colors = [&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;]",
+    "answer": "Vector Software",
     "score": 0,
     "status": ""
     },
     {
     "id": 16,
-    "question": "How do you round the number 7.25, to the nearest integer?",
+    "question": "How many bars we can find in Corel Draw Interface",
     "options": [
     {
-    "a": "rnd(7.25)",
-    "b": "Math.round(7.25)",
-    "c": "Math.rnd(7.25)",
-    "d": "round(7.25)"
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "6"
     }
     ],
-    "answer": "Math.round(7.25)",
+    "answer": "5",
     "score": 0,
     "status": ""
     },
     {
     "id": 17,
-    "question": "How do you find the number with the highest value of x and y?",
+    "question": "In corel Draw, shortcut key of pick tool is :",
     "options": [
     {
-    "a": "Math.max(x, y)",
-    "b": "Math.ceil(x, y)",
-    "c": "top(x, y)",
-    "d": "ceil(x, y)"
+    "a": "ctrl + spacebar",
+    "b": "ctrl + V",
+    "c": "V",
+    "d": "A"
     }
     ],
-    "answer": "Math.max(x, y)",
+    "answer": "ctrl + spacebar",
     "score": 0,
     "status": ""
     },
     {
     "id": 18,
-    "question": "What is the correct JavaScript syntax for opening a new window called &quot;w2&quot;?",
+    "question": "In corel Draw, shortcut key of Shape tool is :",
     "options": [
     {
-    "a": "w2 = window.new(&quot;http://www.w3schools.com&quot;);",
-    "b": "w2 = window.open(&quot;http://www.w3schools.com&quot;);"
+    "a": "F10",
+    "b": "F6",
+    "c": "F8",
+    "d": "F9"
     }
     ],
-    "answer": "w2 = window.open(&quot;http://www.w3schools.com&quot;);",
+    "answer": "F10",
     "score": 0,
     "status": ""
     },
     {
     "id": 19,
-    "question": "JavaScript is the same as Java.",
+    "question": "Virtual Segment Delete Tool Use for :",
     "options": [
     {
-    "a": "true",
-    "b": "false"
+    "a": "cut unwanted part from an image",
+    "b": "divide object in 2 parts",
+    "c": "divide object in Multiple parts",
+    "d": "cut unwanted lines from an object"
     }
     ],
-    "answer": "false",
+    "answer": "cut unwanted lines from an object",
     "score": 0,
     "status": ""
     },
     {
     "id": 20,
-    "question": "How can you detect the client&rsquo;s browser name?",
+    "question": "What fill tool would a person use if she/he wanted to fill an object with hearts?",
     "options": [
     {
-    "a": "navigator.appName",
-    "b": "browser.name",
-    "c": "client.navName"
+    "a": "Uniform",
+    "b": "Transparent",
+    "c": "Fountain",
+    "d": "Pattern",
     }
     ],
-    "answer": "navigator.appName",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 21,
-    "question": "Which event occurs when the user clicks on an HTML element?",
-    "options": [
-    {
-    "a": "onchange",
-    "b": "onclick",
-    "c": "onmouseclick",
-    "d": "onmouseover"
-    }
-    ],
-    "answer": "onclick",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 22,
-    "question": "How do you declare a JavaScript variable?",
-    "options": [
-    {
-    "a": "var carName;",
-    "b": "variable carName;",
-    "c": "v carName;"
-    }
-    ],
-    "answer": "var carName;",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 23,
-    "question": "Which operator is used to assign a value to a variable?",
-    "options": [
-    {
-    "a": "*",
-    "b": "-",
-    "c": "=",
-    "d": "x"
-    }
-    ],
-    "answer": "=",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 24,
-    "question": "What will the following code return: Boolean(10 &gt; 9)",
-    "options": [
-    {
-    "a": "NaN",
-    "b": "false",
-    "c": "true"
-    }
-    ],
-    "answer": "true",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 25,
-    "question": "Is JavaScript case-sensitive?",
-    "options": [
-    {
-    "a": "No",
-    "b": "Yes"
-    }
-    ],
-    "answer": "Yes",
+    "answer": "Uniform",
     "score": 0,
     "status": ""
     }
