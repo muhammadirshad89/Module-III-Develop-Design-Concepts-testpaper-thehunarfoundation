@@ -14,7 +14,7 @@ var quiz = {
     
     }
     ],
-    "answer": "Unique selling point",
+    "answer": "Unique selling Point",
     "score": 0,
     "status": ""
     },
@@ -44,7 +44,7 @@ var quiz = {
     "d": "divide work in a huge team",
     }
     ],
-    "answer": "analyze the need of targated audience",
+    "answer": "analyze market need",
     "score": 0,
     "status": ""
     },
@@ -87,7 +87,7 @@ var quiz = {
     "d": "Both A & B"
     }
     ],
-    "answer": "Both A & B",
+    "answer": "What he wish to be in product but not necessary",
     "score": 0,
     "status": ""
     },
@@ -102,7 +102,7 @@ var quiz = {
     "d": "Helps to make the design more solid"
     }
     ],
-    "answer": "When something awful happens, you can reffer them to the guidlines",
+    "answer": "Contains documentation of product in a business",
     "score": 0,
     "status": ""
     },
